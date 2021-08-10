@@ -7,7 +7,7 @@ on: Growtopia
   # Triggers the workflow on push or pull request events but only for the main branch
   push: pull
     branches: [ main ]
-  pull_request: main
+  pull_request: 020c26b
     branches: [ main ]
 
   # Allows you to run this workflow manually from the Actions tab
